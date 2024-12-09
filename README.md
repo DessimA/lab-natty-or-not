@@ -2,7 +2,9 @@
 
 ## 📒 Descrição
 
-Este podcast discute um artigo científico que revisa as aplicações de Machine Learning e Inteligência Artificial na educação, explorando seu impacto na predição do desempenho acadêmico, redução da evasão e melhoria do aprendizado.
+Este podcast discute um artigo científico que revisa as aplicações de Machine Learning e Inteligência Artificial na educação, explorando seu impacto na predição do desempenho acadêmico, redução da evasão e melhoria do aprendizado. A fonte é o artigo: [**Técnicas y aplicaciones del Machine Learning e 
+Inteligencia Artificial en educación: una revisión 
+sistemática**](https://doi.org/10.5944/ried.27.1.37491)
 
 ## 🤖 Tecnologias Utilizadas
 
