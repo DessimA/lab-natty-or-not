@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast "Desafio da DIO" - IA na Educação: Transformando o Futuro da Aprendizagem
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Este podcast discute um artigo científico que revisa as aplicações de Machine Learning e Inteligência Artificial na educação, explorando seu impacto na predição do desempenho acadêmico, redução da evasão e melhoria do aprendizado.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- IA Generativa [**NotebookLM**](https://notebooklm.google.com/) para geração do roteiro e conteúdo do podcast a partir do artigo científico.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Utilizamos o seguinte prompt no NotebookLM: `"Podcast "Desafio da DIO" os apresentadores falam português do Brasil e conversam sobre o artigos da fonte, o dialogo deve ser em português do Brasil e focar no tema do artigo, faça analogias e use gírias brasileiras, o podcast deve falar sobre a importância do artigo para o seu segmento e como ele pode influenciar na vida das pessoas."`
+
+O NotebookLM gerou o roteiro com diálogos, introdução e conclusão.  O áudio foi gerado pelo NotebookLM.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O episódio do "Desafio da DIO" aborda a aplicação de IA na educação de forma acessível e envolvente.  A conversa entre os apresentadores, com analogias e gírias, desmistifica os conceitos de IA e Machine Learning, explicando como essas tecnologias podem transformar a aprendizagem.
 
-### Exemplos e Insigths
+## 💭 Reflexão
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## O projeto demonstra a capacidade do NotebookLM de gerar conteúdo informativo em formato de podcast a partir de um artigo científico denso. O prompt detalhado permitiu que a IA criasse um roteiro que atendesse às necessidades específicas do podcast, incluindo o tom descontraído e o uso de linguagem coloquial. A revisão humana do roteiro gerado pela IA foi crucial para assegurar a precisão das informações e a fluidez da conversa. O resultado final é um podcast informativo e acessível sobre um tema complexo, com potencial para engajar e educar o público sobre as possibilidades da IA na educação.
